@@ -88,6 +88,11 @@ namespace GuiTtesterToMoodle
         {
             MessageBox.Show("Создано: Тихомиров Д.С. Корнилов В.А. \r\n По вопросам работы программы звонить 28-57-69");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("123");
+        }
     }
 
 
