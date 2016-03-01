@@ -1,0 +1,45 @@
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe.config
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.pdb
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.csprojResolveAssemblyReference.cache
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\MainWindow.g.cs
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\App.g.cs
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle_MarkupCompile.cache
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle_MarkupCompile.lref
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\MainWindow.baml
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.g.resources
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.Properties.Resources.resources
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.csproj.GenerateResource.Cache
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.exe
+c:\users\kornilovva\documents\visual studio 2015\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe.config
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.exe
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.csprojResolveAssemblyReference.cache
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\MainWindow.g.cs
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\App.g.cs
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle_MarkupCompile.cache
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle_MarkupCompile.lref
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\MainWindow.baml
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.g.resources
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.Properties.Resources.resources
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.csproj.GenerateResource.Cache
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe.config
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.exe
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.pdb
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.pdb
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.csprojResolveAssemblyReference.cache
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\MainWindow.g.cs
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\App.g.cs
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle_MarkupCompile.cache
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle_MarkupCompile.lref
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\MainWindow.baml
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.g.resources
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.Properties.Resources.resources
+C:\Users\Kornilovva\Documents\Visual Studio 2015\Projects\GuiTtesterToMoodle 19.02\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.csproj.GenerateResource.Cache
+C:\Users\Kornilovva\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\bin\Debug\GuiTtesterToMoodle.exe.config
+C:\Users\Kornilovva\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.exe
+C:\Users\Kornilovva\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Debug\GuiTtesterToMoodle.pdb

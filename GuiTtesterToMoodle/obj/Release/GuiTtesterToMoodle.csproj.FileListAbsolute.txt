@@ -1,0 +1,14 @@
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.exe.config
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.exe
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.csprojResolveAssemblyReference.cache
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\MainWindow.g.cs
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\App.g.cs
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle_MarkupCompile.cache
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle_MarkupCompile.lref
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\MainWindow.baml
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.g.resources
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.Properties.Resources.resources
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.csproj.GenerateResource.Cache
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.exe
+C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.pdb

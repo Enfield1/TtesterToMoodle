@@ -1,0 +1,21 @@
+﻿<Window x:Class="GuiTtesterToMoodle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GuiTtesterToMoodle"
+        mc:Ignorable="d"
+        Title="Перевод тестов из Ttester в Moodle" Height="470" Width="525">
+    <Grid Margin="0,0,2,-49" Height="469" VerticalAlignment="Top">
+        <Button x:Name="AddFiles" Content="Добавить файл" HorizontalAlignment="Left" Margin="28,215,0,0" VerticalAlignment="Top" Width="105" Click="AddFiles_Click"/>
+        <Button x:Name="Convert" Content="Конвертировать" Margin="0,215,29,0" VerticalAlignment="Top" IsEnabled="False" Click="Convert_Click" HorizontalAlignment="Right" Width="126"/>
+        <ListBox x:Name="listBox" Height="125" Margin="28,44,29,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" Height="134" Margin="28,274,29,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalScrollBarVisibility="Auto" />
+        <Label x:Name="label" Content="Окно загрузки файлов:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="28,10,0,0" Width="349"/>
+        <Label x:Name="label1" Content="Окно вывода сообщений:" HorizontalAlignment="Left" Margin="28,243,0,0" VerticalAlignment="Top" Width="307"/>
+        <ProgressBar x:Name="PBar" Height="22" Margin="194,215,210,0" VerticalAlignment="Top" IsEnabled="False" Visibility="Hidden"/>
+        <Button x:Name="button" Content="?" HorizontalAlignment="Right" Margin="0,10,29,0" VerticalAlignment="Top" Width="30" Click="button_Click"/>
+        <CheckBox x:Name="checkBox" Content="Запись в один файл" HorizontalAlignment="Left" Margin="28,184,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.059,0.562"/>
+
+    </Grid>
+</Window>
