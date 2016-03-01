@@ -15,3 +15,14 @@ C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\G
 C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.exe.config
 C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.exe
 C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.exe
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.csprojResolveAssemblyReference.cache
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\MainWindow.g.cs
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\App.g.cs
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle_MarkupCompile.cache
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle_MarkupCompile.lref
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\MainWindow.baml
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.g.resources
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.Properties.Resources.resources
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.csproj.GenerateResource.Cache
