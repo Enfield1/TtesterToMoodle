@@ -12,3 +12,6 @@ C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\G
 C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.csproj.GenerateResource.Cache
 C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.exe
 C:\Users\tikhomirovds\Documents\Visual Studio 2013\Projects\GuiTtesterToMoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.pdb
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\bin\Release\GuiTtesterToMoodle.exe.config
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.exe
+C:\Users\tikhomirovds\Source\Repos\ttestertomoodle\GuiTtesterToMoodle\obj\Release\GuiTtesterToMoodle.pdb
